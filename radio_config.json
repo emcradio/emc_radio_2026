@@ -4,13 +4,13 @@
     "enabled": true
   },
   "configUrl": "https://raw.githubusercontent.com/emcradio/emc_radio_2026/refs/heads/main/radio_config.json",
-  "streamUrl": "https://c22.radioboss.fm:8040/stream",
+  "streamUrl": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3",
   "streams": [
     {
       "id": "mcf",
       "enabled": true,
       "label": "EMC Radio",
-      "url": "https://c22.radioboss.fm:8040/stream"
+      "url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3"
     },
     {
       "id": "mcf-data-saver",
