@@ -40,9 +40,9 @@
   "youtube": {
     "enabled": true,
     "channel_id": "UCgrkxPaFvtVDBdi0_3fKExg",
-    "live_url": "https://www.youtube.com/channel/UCgrkxPaFvtVDBdi0_3fKExg/live",
-    "streams_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
-    "streams_home_count": 10,
+    "live_url": "https://www.youtube.com/channel/UCaw5bydxwBSQgxxFWJdVjOA/live",
+    "streams_url": "https://www.youtube.com/@emcchurch",
+    "streams_home_count": 15,
     "streams_title": "Recent Streams",
     "title": "",
     "fullscreen": true,
