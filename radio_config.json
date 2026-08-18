@@ -1,0 +1,185 @@
+{
+  "app_enabled": 1,
+  "home_tab": {
+    "enabled": false
+  },
+  "configUrl": "https://raw.githubusercontent.com/bashamark/mcfradio2026/refs/heads/main/radio_config.json",
+  "streamUrl": "https://radio256.webusite.com/listen/mcf_radio/radio.mp3",
+  "streams": [
+    {
+      "id": "mcf",
+      "enabled": true,
+      "label": "MCF Radio 98.7 FM",
+      "url": "https://radio256.webusite.com/listen/mcf_radio/radio.mp3"
+    },
+    {
+      "id": "mcf-data-saver",
+      "enabled": true,
+      "label": "MCF Data Saver",
+      "url": "https://gospelradio.webusite.com/listen/mcf_3/mcf"
+    },
+    {
+      "id": "radioboss",
+      "enabled": true,
+      "label": "MCF 98.7 (mcfradio2018)",
+      "url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3"
+    }
+  ],
+  "defaultTitle": "Live Stream",
+  "defaultSubtitle": "",
+  "chat": {
+    "enabled": true,
+    "url": "https://mcfchat-469b5.web.app/",
+    "label": "MCF Radio Chat"
+  },
+  "give": {
+    "enabled": false,
+    "url": "https://edenmiracleministries.org/online-basket/",
+    "label": "Give"
+  },
+  "youtube": {
+    "enabled": true,
+    "channel_id": "UCgrkxPaFvtVDBdi0_3fKExg",
+    "live_url": "https://www.youtube.com/channel/UCgrkxPaFvtVDBdi0_3fKExg/live",
+    "streams_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "streams_home_count": 10,
+    "streams_title": "Recent Streams",
+    "title": "",
+    "fullscreen": true,
+    "aspect_ratio": "16:9",
+    "chat_enabled": true
+  },
+  "verse_of_the_day": {
+    "enabled": true,
+    "api_url": "https://beta.ourmanna.com/api/v1/get?format=json&order=daily",
+    "translation": "NKJV",
+    "title": "Verse of the Day"
+  },
+  "banners": {
+    "enabled": true,
+    "tag": "home",
+    "autoAdvanceSeconds": 5,
+    "items": [
+      {
+        "id": "prayer-fasting-2026",
+        "tag": "home",
+        "enabled": true,
+        "imageUrl": "https://i.ibb.co/Q1dhCwt/eden1.jpg",
+        "linkUrl": ""
+      },
+
+      {
+        "id": "slide0",
+        "tag": "home",
+        "enabled": true,
+        "imageUrl": "https://i.ibb.co/RTJ3PbYD/22w.jpg",
+        "linkUrl": ""
+      },
+
+      {
+        "id": "slide2",
+        "tag": "home",
+        "enabled": true,
+        "imageUrl": "https://i.ibb.co/1Wr2szj/youth.jpg",
+        "linkUrl": ""
+      }
+    ]
+  },
+  "podcasts": {
+    "enabled": true,
+    "rss_url": "https://anchor.fm/s/f9c5246c/podcast/rss",
+    "home_count": 6,
+    "title": "Podcasts"
+  },
+  "admob": {
+    "enabled": true,
+    "app_id": "ca-app-pub-9523725970329735~5587190670",
+    "app_open": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-9523725970329735/4458437642"
+    },
+    "radio_pause_interstitial": {
+      "enabled": false,
+      "ad_unit_id": "ca-app-pub-9523725970329735/2892378874"
+    },
+    "radio_adaptive_banner": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-9523725970329735/1582777730"
+    },
+    "radio_collapsible_banner": {
+      "enabled": false,
+      "ad_unit_id": "ca-app-pub-3940256099942544/2014213617",
+      "placement": "bottom"
+    },
+    "exit_native": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-9523725970329735/3418501959"
+    },
+    "native_banner": {
+      "enabled": true,
+      "ad_unit_id": "ca-app-pub-9523725970329735/3418501959"
+    }
+  },
+  "onesignal": {
+    "enabled": true,
+    "app_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2"
+  },
+  "socialLinks": [
+    {
+      "id": "website",
+      "enabled": false,
+      "url": "https://edenmiracleministries.org/",
+      "label": "Website"
+    },
+    {
+      "id": "facebook",
+      "enabled": false,
+      "url": "https://www.facebook.com/edenmcm",
+      "label": "Facebook"
+    },
+    {
+      "id": "whatsapp",
+      "enabled": true,
+      "url": "https://chat.whatsapp.com/EYWWvWevU8WDdXy40JLvNa?s=sw&p=a&mlu=2&amv=0",
+      "label": "WhatsApp"
+    },
+    {
+      "id": "youtube",
+      "enabled": true,
+      "url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+      "label": "YouTube"
+    },
+    {
+      "id": "mcf-radio-web",
+      "enabled": true,
+      "show_in_drawer": false,
+      "show_in_radio": true,
+      "url": "https://mcfradio256.webusite.com/",
+      "label": "MCF Radio Online"
+    },
+    {
+      "id": "youtube-podcasts",
+      "enabled": true,
+      "url": "https://www.youtube.com/@MCFSermons/podcasts",
+      "label": "YouTube Podcasts"
+    },
+    {
+      "id": "uganda-gospel-app",
+      "enabled": true,
+      "url": "https://play.google.com/store/apps/details?id=com.gospel.ug&hl=en",
+      "label": "Uganda Gospel Music App"
+    },
+    {
+      "id": "twitter",
+      "enabled": false,
+      "url": "https://x.com",
+      "label": "X"
+    },
+    {
+      "id": "instagram",
+      "enabled": false,
+      "url": "https://instagram.com",
+      "label": "Instagram"
+    }
+  ]
+}
