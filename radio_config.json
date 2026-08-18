@@ -4,13 +4,13 @@
     "enabled": true
   },
   "configUrl": "https://edenmiracleministries.org/radio_config.json",
-  "streamUrl": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3",
+  "streamUrl": "https://c22.radioboss.fm:8040/stream",
   "streams": [
     {
       "id": "mcf",
       "enabled": true,
       "label": "EMC Radio",
-      "url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3"
+      "url": "https://c22.radioboss.fm:8040/stream"
     },
     {
       "id": "mcf-data-saver",
@@ -22,7 +22,7 @@
       "id": "radioboss",
       "enabled": true,
       "label": "MCF 98.7 (mcfradio2018)",
-      "url": "http://c22.radioboss.fm:18040/stream"
+      "url": "https://c22.radioboss.fm:8040/stream"
     }
   ],
   "defaultTitle": "The Voice of Abundance ",
