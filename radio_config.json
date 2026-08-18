@@ -39,7 +39,7 @@
   },
   "youtube": {
     "enabled": true,
-    "channel_id": "UCgrkxPaFvtVDBdi0_3fKExg",
+    "channel_id": "UCaw5bydxwBSQgxxFWJdVjOA",
     "live_url": "https://www.youtube.com/channel/UCaw5bydxwBSQgxxFWJdVjOA/live",
     "streams_url": "https://www.youtube.com/@emcchurch",
     "streams_home_count": 15,
@@ -146,7 +146,7 @@
     {
       "id": "youtube",
       "enabled": true,
-      "url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+      "url": "https://www.youtube.com/@emcchurch/streams",
       "label": "YouTube"
     },
     {
