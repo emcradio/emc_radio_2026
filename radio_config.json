@@ -40,9 +40,9 @@
   "youtube": {
     "enabled": true,
     "channel_id": "UCgrkxPaFvtVDBdi0_3fKExg",
-    "live_url": "https://www.youtube.com/channel/UCaw5bydxwBSQgxxFWJdVjOA/live",
-    "streams_url": "https://www.youtube.com/@emcchurch",
-    "streams_home_count": 15,
+    "live_url": "https://www.youtube.com/channel/UCgrkxPaFvtVDBdi0_3fKExg/live",
+    "streams_url": "https://www.youtube.com/@MutundweChristianFellowship/streams",
+    "streams_home_count": 10,
     "streams_title": "Recent Streams",
     "title": "",
     "fullscreen": true,
@@ -87,7 +87,7 @@
   },
   "podcasts": {
     "enabled": true,
-    "rss_url": "https://anchor.fm/s/f9c5246c/podcast/rss",
+    "rss_url": "https://anchor.fm/s/a55bacfc/podcast/rss",
     "home_count": 6,
     "title": "Podcasts"
   },
