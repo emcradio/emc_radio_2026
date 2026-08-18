@@ -1,22 +1,22 @@
 {
   "app_enabled": 1,
   "home_tab": {
-    "enabled": false
+    "enabled": true
   },
-  "configUrl": "https://raw.githubusercontent.com/bashamark/mcfradio2026/refs/heads/main/radio_config.json",
-  "streamUrl": "https://radio256.webusite.com/listen/mcf_radio/radio.mp3",
+  "configUrl": "https://raw.githubusercontent.com/emcradio/emc_radio_2026/refs/heads/main/radio_config.json",
+  "streamUrl": "https://c22.radioboss.fm:18040/stream",
   "streams": [
     {
       "id": "mcf",
       "enabled": true,
-      "label": "MCF Radio 98.7 FM",
-      "url": "https://radio256.webusite.com/listen/mcf_radio/radio.mp3"
+      "label": "EMC Radio",
+      "url": "https://c22.radioboss.fm:18040/stream"
     },
     {
       "id": "mcf-data-saver",
       "enabled": true,
-      "label": "MCF Data Saver",
-      "url": "https://gospelradio.webusite.com/listen/mcf_3/mcf"
+      "label": "EMC Radio",
+      "url": "https://c22.radioboss.fm:18040/stream"
     },
     {
       "id": "radioboss",
@@ -25,7 +25,7 @@
       "url": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3"
     }
   ],
-  "defaultTitle": "Live Stream",
+  "defaultTitle": "The Voice of Abundance ",
   "defaultSubtitle": "",
   "chat": {
     "enabled": true,
@@ -92,23 +92,23 @@
     "title": "Podcasts"
   },
   "admob": {
-    "enabled": true,
-    "app_id": "ca-app-pub-9523725970329735~5587190670",
+    "enabled": false,
+    "app_id": "ca-app-pub-9523725970329735~558719000",
     "app_open": {
-      "enabled": true,
-      "ad_unit_id": "ca-app-pub-9523725970329735/4458437642"
+      "enabled": false,
+      "ad_unit_id": "ca-app-pub-9523725970329735/4458437000"
     },
     "radio_pause_interstitial": {
       "enabled": false,
-      "ad_unit_id": "ca-app-pub-9523725970329735/2892378874"
+      "ad_unit_id": "ca-app-pub-9523725970329735/2892378000"
     },
     "radio_adaptive_banner": {
-      "enabled": true,
-      "ad_unit_id": "ca-app-pub-9523725970329735/1582777730"
+      "enabled": false,
+      "ad_unit_id": "ca-app-pub-9523725970329735/1582777000"
     },
     "radio_collapsible_banner": {
       "enabled": false,
-      "ad_unit_id": "ca-app-pub-3940256099942544/2014213617",
+      "ad_unit_id": "ca-app-pub-3940256099942544/2014213000",
       "placement": "bottom"
     },
     "exit_native": {
@@ -116,31 +116,31 @@
       "ad_unit_id": "ca-app-pub-9523725970329735/3418501959"
     },
     "native_banner": {
-      "enabled": true,
+      "enabled": false,
       "ad_unit_id": "ca-app-pub-9523725970329735/3418501959"
     }
   },
   "onesignal": {
-    "enabled": true,
+    "enabled": false,
     "app_id": "b86f98b6-9cf5-4ebc-80e3-1c9a23252ef2"
   },
   "socialLinks": [
     {
       "id": "website",
-      "enabled": false,
+      "enabled": true,
       "url": "https://edenmiracleministries.org/",
       "label": "Website"
     },
     {
       "id": "facebook",
-      "enabled": false,
+      "enabled": true,
       "url": "https://www.facebook.com/edenmcm",
       "label": "Facebook"
     },
     {
       "id": "whatsapp",
       "enabled": true,
-      "url": "https://chat.whatsapp.com/EYWWvWevU8WDdXy40JLvNa?s=sw&p=a&mlu=2&amv=0",
+      "url": "https://wa.link/myk83u",
       "label": "WhatsApp"
     },
     {
@@ -151,21 +151,21 @@
     },
     {
       "id": "mcf-radio-web",
-      "enabled": true,
+      "enabled": false,
       "show_in_drawer": false,
-      "show_in_radio": true,
+      "show_in_radio": false,
       "url": "https://mcfradio256.webusite.com/",
       "label": "MCF Radio Online"
     },
     {
       "id": "youtube-podcasts",
-      "enabled": true,
+      "enabled": false,
       "url": "https://www.youtube.com/@MCFSermons/podcasts",
       "label": "YouTube Podcasts"
     },
     {
       "id": "uganda-gospel-app",
-      "enabled": true,
+      "enabled": false,
       "url": "https://play.google.com/store/apps/details?id=com.gospel.ug&hl=en",
       "label": "Uganda Gospel Music App"
     },
