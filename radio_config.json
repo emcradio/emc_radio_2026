@@ -3,7 +3,7 @@
   "home_tab": {
     "enabled": true
   },
-  "configUrl": "https://raw.githubusercontent.com/emcradio/emc_radio_2026/refs/heads/main/radio_config.json",
+  "configUrl": "https://edenmiracleministries.org/radio_config.json",
   "streamUrl": "https://live-radio.mfc-streaming-service.online/orion_west-satelite_haven/transmiter.mp3",
   "streams": [
     {
