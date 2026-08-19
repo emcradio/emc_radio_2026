@@ -64,7 +64,7 @@
         "id": "prayer-fasting-2026",
         "tag": "home",
         "enabled": true,
-        "imageUrl": "https://i.ibb.co/Q1dhCwt/eden1.jpg",
+        "imageUrl": "https://i.ibb.co/pk9YNWN/slide1-emc.jpg",
         "linkUrl": ""
       },
 
@@ -72,15 +72,7 @@
         "id": "slide0",
         "tag": "home",
         "enabled": true,
-        "imageUrl": "https://i.ibb.co/RTJ3PbYD/22w.jpg",
-        "linkUrl": ""
-      },
-
-      {
-        "id": "slide2",
-        "tag": "home",
-        "enabled": true,
-        "imageUrl": "https://i.ibb.co/1Wr2szj/youth.jpg",
+        "imageUrl": "https://i.ibb.co/1S07qDG/slide2-emc.jpg",
         "linkUrl": ""
       }
     ]
